@@ -1,4 +1,4 @@
-# Readme Whetstone Benchmark – **Modernized Edition** 🚀
+# Whetstone Benchmark – **Modernized Edition** 🚀
 
 Welcome to the **modernized Whetstone Benchmark**, a high-performance testing tool designed to measure the computational capabilities of your system with various data types (e.g., `int`, `float`, `double`). This version builds upon the classic 1998 C implementation of the **Whetstone Double Precision Benchmark** but now supports **template-based flexibility**, **multiple data types**, and better integration with modern compilers. Whether you’re benchmarking simple arithmetic or heavy transcendental operations, this version has been reworked to reflect **modern hardware capabilities**.
 
